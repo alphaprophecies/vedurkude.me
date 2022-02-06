@@ -1,0 +1,24 @@
+.site-header{
+    background-image: url(https://www.rpnation.com/gallery/section-bg-dark.33636/full);
+    color: blanchedalmond;
+    height: 100vh;
+    font-family:monospace ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+    .content-side{
+margin: 10px;
+    }
+
+    .profile{
+        border-radius: 50%;
+    width: 250px;
+    border: 2px solid #6caed5;
+    }
+
+    body{
+        margin: 0;
+        background-image: url(lol.jpg/images);
+    }
